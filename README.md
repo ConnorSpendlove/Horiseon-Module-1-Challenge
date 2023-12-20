@@ -28,4 +28,16 @@ N/A
 ## Usage
 When using this website open the Chrome DevTool by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). The newly opened panel will include code that meets all of the acceptance criteria mentioned above.
 
+## Deployment Link
+[Horiseon Inc.](https://connorspendlove.github.io/Horiseon-Module-1-Challenge/)
+
 ## Screenshot
+![](assets/images/Screenshot%20Horiseon.jpeg)
+
+## Credits
+Starter html and css code cloned from the University of Utah Coding Bootcamp Class Repository.
+
+## License
+Please refer to the LICENSE in the repository.
+
+
