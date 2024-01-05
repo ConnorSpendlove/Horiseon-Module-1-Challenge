@@ -2,7 +2,7 @@
 
 ## Description
 
-This webpage was created with the intention to fulfill the requirements for the Module 1 Challenge for the University of Utah's Coding Bootcamp. The webpage is owned by a fictional comapny named Horiseon Inc.
+This webpage was created to fulfil the requirements for the Module 1 Challenge for the University of Utah's Coding Bootcamp. The webpage is owned by a fictional company named Horiseon Inc.
 
 ## User Story
 AS a marketing agency
@@ -35,7 +35,7 @@ When using this website open the Chrome DevTool by pressing Command+Option+I (Ma
 ![](assets/images/Screenshot%20Horiseon.jpeg)
 
 ## Credits
-Starter html and css code cloned from the University of Utah Coding Bootcamp Class Repository.
+Starter HTML and CSS code cloned from the University of Utah Coding Bootcamp Class Repository.
 
 ## License
 Please refer to the LICENSE in the repository.
