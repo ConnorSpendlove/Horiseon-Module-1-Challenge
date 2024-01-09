@@ -142,64 +142,30 @@ p {
     background-color: #2589bd;
 }
 
-/* Each "benefit" class organized in order of appearance in HTML file. */
-/* Aside section benefit-lead header, image, and paragraph */
-.benefit-lead {
+/* Each benefit class combined into 3 to save space and to clean up the code. */
+.benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-/* Aside section benefit-brand header, image, and paragraph */
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Aside section benefit-cost header, image, and paragraph */
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* Aligns footer to center along with styling. */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
 /* Changed ".footer h2" to ".footer h4" to account for change in html*/
 .footer h4 {
     font-size: 20px;
